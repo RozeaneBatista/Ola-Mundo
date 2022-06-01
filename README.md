@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Meu Primeiro Repositório para a Dio.
 
- Este repositório foi criado para um projeto do curso do santander oferecido pela Dio.
+ Este repositório foi criado para o projeto do bootcamp santander oferecido pela Dio.
